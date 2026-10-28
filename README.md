@@ -19,14 +19,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Development student from Colombia focused on **Backend Development with C# and .NET**, with additional knowledge of frontend and mobile development.
+I'm a Software Development student from Colombia focused on **Backend Development with C# and .NET**, with additional knowledge of web and mobile development.
 
 I'm passionate about building applications, solving technical problems, and learning how different software components work together.
 
 - 🔭 My main focus is **Backend Development with C# and .NET**.
-- 🚀 I've developed **MoodUp**, an emotional well-being application.
+- 🚀 I've developed **MoodUp**, an emotional well-being application available as a web and mobile project.
 - 🗄️ I'm interested in REST APIs, databases, and software architecture.
-- 🌐 I also have knowledge of web and mobile development.
+- 🌐 I have worked with web technologies such as HTML, CSS, and JavaScript.
+- 📱 I also work with React Native and Expo for mobile development.
 - 🛠️ I have additional technical knowledge in IT support and process automation.
 - 🎯 I'm looking for my first professional opportunity in software development.
 - 📚 I'm always learning and improving my programming skills.
@@ -37,30 +38,44 @@ I'm passionate about building applications, solving technical problems, and lear
 
 ### 🧠 MoodUp — Emotional Well-being Application
 
-MoodUp is an application designed to help users record their moods and discover audiovisual recommendations and activities related to their emotional state.
+MoodUp is an emotional well-being application designed to help users record their moods and discover audiovisual recommendations and activities related to their emotional state.
 
 **Key features include:**
 - 😊 Emotional state selection and registration.
 - 🎬 Movie and series recommendations based on emotions.
 - 🎯 Challenges related to emotional well-being.
 - 📊 Emotional history and tracking.
-- 📱 Mobile application interface.
+- 📱 Web and mobile application interfaces.
 
-**Technologies used:**
+### 🛠️ Technologies Used
 
-`C#` `ASP.NET Core` `PostgreSQL` `React Native` `Expo` `JavaScript`
+`HTML` `CSS` `JavaScript` `C#` `.NET` `ASP.NET Core` `PostgreSQL` `React Native` `Expo`
 
-<p>
-  <a href="https://github.com/juanbedoya17/frontend-react-native">
-    <img src="https://img.shields.io/badge/Frontend-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MoodUp Frontend" />
-  </a>
-  <a href="https://github.com/juanbedoya17/MoodUP_final">
-    <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MoodUp Backend" />
-  </a>
-</p>
+### 📂 Explore MoodUp
 
-- 📱 **Frontend repository:** [frontend-react-native](https://github.com/juanbedoya17/frontend-react-native)
-- ⚙️ **Backend repository:** [MoodUP_final](https://github.com/juanbedoya17/MoodUP_final)
+**🌐 Web Application — HTML, CSS & JavaScript**
+
+<a href="https://github.com/juanbedoya17/Mood-Up">
+  <img src="https://img.shields.io/badge/Web_Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="MoodUp Web Frontend" />
+</a>
+
+Repository: [Mood-Up — Web Frontend](https://github.com/juanbedoya17/Mood-Up)
+
+**📱 Mobile Application — React Native & Expo**
+
+<a href="https://github.com/juanbedoya17/frontend-react-native">
+  <img src="https://img.shields.io/badge/Mobile_Frontend-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="MoodUp Mobile Frontend" />
+</a>
+
+Repository: [frontend-react-native](https://github.com/juanbedoya17/frontend-react-native)
+
+**⚙️ Backend — C# & ASP.NET Core**
+
+<a href="https://github.com/juanbedoya17/Backend-Mood-Up-Final">
+  <img src="https://img.shields.io/badge/Backend-C%23%20%7C%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="MoodUp Backend" />
+</a>
+
+Repository: [MoodUP_final](https://github.com/juanbedoya17/Backend-Mood-Up-Final)
 
 ---
 
@@ -75,13 +90,13 @@ MoodUp is an application designed to help users record their moods and discover 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Database technologies" />
 </p>
 
-### Frontend & Mobile Development
+### Web & Mobile Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Web and mobile technologies" />
 </p>
 
 ### Development Tools
@@ -129,9 +144,9 @@ Alongside software development, I have knowledge of IT support and technical tro
   <a href="https://github.com/juanbedoya17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Replace the URL below with your actual LinkedIn profile -->
-  <a href="https://www.linkedin.com/">
-    <img src="https://www.linkedin.com/in/juan-miguel-bedoya-velasquez-b48258356/" />
+  <!-- Replace this URL with your actual LinkedIn profile -->
+  <a href="https://www.linkedin.com/in/juan-miguel-bedoya-velasquez-b48258356/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
